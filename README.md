@@ -28,4 +28,4 @@
 
 ## My Contribution Snake 🐍
 
-<img src="https://githubusercontent.com" width="100%">
+<img src="https://raw.githubusercontent.com/szatakis/Szatakis/output/github-contribution-grid-snake.svg" width="100%" />
