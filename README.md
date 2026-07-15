@@ -19,7 +19,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-stats-extended.vercel.app/api/username?szatakis&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=szatakis&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Szatakis+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 ## 🔥 GitHub Streak
 
